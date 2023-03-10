@@ -5,7 +5,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #09943c;
+  background-color: #2d8eee;
   color: #212121;
   line-height: 1.5;
 }
@@ -16,7 +16,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 10px;
-  background-color: rgb(182, 82, 24);
+  background-color: rgb(225, 124, 124);
 }
 
 .search-form input {
@@ -54,7 +54,7 @@ body {
 .photo-card__container {
   display: flex;
   flex-direction: column;
-  background-color: #318080;
+  background-color: #126363;
   border-radius: 10px;
 }
 
