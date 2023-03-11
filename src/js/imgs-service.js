@@ -5,7 +5,7 @@ const BASE_URL = 'https://pixabay.com/api/';
 const BASE_SEARCH_OPTIONS = {
   image_type: 'photo',
   orientation: 'horizontal',
-  safesearch: true,
+  safesearch: ,
 };
 
 export class ImgsApiService {
